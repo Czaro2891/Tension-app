@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tension-app/static/css/main.404c52e3.css",
+    "main.js": "/tension-app/static/js/main.3a64e896.js",
+    "index.html": "/tension-app/index.html",
+    "main.404c52e3.css.map": "/tension-app/static/css/main.404c52e3.css.map",
+    "main.3a64e896.js.map": "/tension-app/static/js/main.3a64e896.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.404c52e3.css",
+    "static/js/main.3a64e896.js"
+  ]
+}
