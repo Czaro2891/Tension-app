@@ -1,6 +1,6 @@
 {
-  "short_name": "Tension",
-  "name": "Tension - Where Intimacy Meets Intelligence",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,7 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#ff6b9d",
-  "background_color": "#0a0a0a",
-  "description": "A revolutionary erotic-psychological application supported by advanced multi-agent AI architecture"
-} 
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
